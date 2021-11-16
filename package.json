@@ -1,0 +1,28 @@
+{
+  "name": "solidity-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilchuck/solidity-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bilchuck/solidity-playground/issues"
+  },
+  "homepage": "https://github.com/Bilchuck/solidity-playground#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.3.3",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "mocha": "^9.1.3"
+  }
+}
