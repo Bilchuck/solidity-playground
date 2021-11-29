@@ -8,3 +8,4 @@ contract BasicToken is ERC20 {
         _mint(msg.sender, initialBalance);
     }
 }
+
